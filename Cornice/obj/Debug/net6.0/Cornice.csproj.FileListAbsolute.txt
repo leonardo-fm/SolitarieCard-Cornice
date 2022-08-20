@@ -1,0 +1,15 @@
+D:\Projects\Cornice\Cornice\bin\Debug\net6.0\Cornice.exe
+D:\Projects\Cornice\Cornice\bin\Debug\net6.0\Cornice.deps.json
+D:\Projects\Cornice\Cornice\bin\Debug\net6.0\Cornice.runtimeconfig.json
+D:\Projects\Cornice\Cornice\bin\Debug\net6.0\Cornice.dll
+D:\Projects\Cornice\Cornice\bin\Debug\net6.0\ref\Cornice.dll
+D:\Projects\Cornice\Cornice\bin\Debug\net6.0\Cornice.pdb
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.csproj.AssemblyReference.cache
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.AssemblyInfoInputs.cache
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.AssemblyInfo.cs
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.csproj.CoreCompileInputs.cache
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.dll
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\ref\Cornice.dll
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.pdb
+D:\Projects\Cornice\Cornice\obj\Debug\net6.0\Cornice.genruntimeconfig.cache
