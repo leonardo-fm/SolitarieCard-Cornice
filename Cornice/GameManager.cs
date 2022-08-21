@@ -24,6 +24,7 @@ public class GameManager
         
         Console.Clear();
         Console.WriteLine(Game.Lose() ? "You lose" : "You win!");
+        Console.ReadKey();
     }
 
     private void StageOne()
